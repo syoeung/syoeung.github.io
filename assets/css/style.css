@@ -731,8 +731,15 @@ footer {
 .profle-pic {
   width: 200px;
   height: 200px;
+  
 }
 
+#profilePic {
+  transform: rotate(90deg);
+}
+#brandstatement {
+  color: #7e8890;
+}
 #aboutHeader {
   text-align: center;
 }
